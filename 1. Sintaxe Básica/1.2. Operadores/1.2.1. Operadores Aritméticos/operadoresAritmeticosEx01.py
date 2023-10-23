@@ -27,7 +27,7 @@ print("Resultado da multiplicação =",resultadoEx03)  # Resultado: 21
 
 #Ex: 04 
 num1Ex04 = 10
-num2Ex04 = jbgvcjcj2
+num2Ex04 = 2
 resultadoEx04 = num1Ex04 / num2Ex04
 print("Resultado da divisão =",resultadoEx04)  # Resultado: 5.0
 
